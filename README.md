@@ -41,10 +41,10 @@ This feature provides flexibility for easily managing which cards can access the
 
 ## Credits
 This project was a collaborative effort. Special thanks to my project partners:
-- **[Sanuk Ratnayake]** – Worked on [Software development, RFID integration, project management]
-- **[Chamika Perera]** – Focused on [Prototype designing, hardware setup]
-- **[Dulain Gunawardhana]** – Contributed to [Software development, mobile application setup]
-- **[Luchitha Jayawardhana]** - Worked on [Tesing, debugging, hardware integration]
+- **[Sanuk Ratnayake]** – Worked on [Software development, RFID integration, Project management]
+- **[Chamika Perera]** – Focused on [Prototype designing, Hardware setup]
+- **[Dulain Gunawardhana]** – Contributed to [Software development, Mobile application setup]
+- **[Luchitha Jayawardhana]** – Worked on [Testing, Debugging, Hardware integration]
 
 Thank you to everyone who contributed to making SecureLink a success!
 
