@@ -41,7 +41,7 @@ This feature provides flexibility for easily managing which cards can access the
 
 ## Credits
 This project was a collaborative effort. Special thanks to my project partners:
-- **[Sanuk Ratnayake]** – Worked on [Software development, RFID integration, Project management]
+- **[Sanuk Ratnayake]** – Worked on [Software development, RFID integration]
 - **[Chamika Perera]** – Focused on [Prototype designing, Hardware setup]
 - **[Dulain Gunawardhana]** – Contributed to [Software development, Mobile application setup]
 - **[Luchitha Jayawardhana]** – Worked on [Testing, Debugging, Hardware integration]
