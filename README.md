@@ -39,6 +39,16 @@ To enhance security, the system allows only authorized RFID cards to unlock the 
 
 This feature provides flexibility for easily managing which cards can access the system.
 
+## Credits
+This project was a collaborative effort. Special thanks to my project partners:
+- **[Sanuk Ratnayake]** – Worked on [Software development, RFID integration, project management]
+- **[Chamika Perera]** – Focused on [Prototype designing, hardware setup]
+- **[Dulain Gunawardhana]** – Contributed to [Software development, mobile application setup]
+- **[Luchitha Jayawardhana]** - Worked on [Tesing, debugging, hardware integration]
+
+Thank you to everyone who contributed to making SecureLink a success!
+
+
 ## Installation
 1. Clone this repository:
    ```bash
